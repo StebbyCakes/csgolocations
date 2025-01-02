@@ -4,141 +4,141 @@
       "locations": [
         {
           "name": "Connector",
-          "images": ["/images/Anubis/Anubis_Connector.jpg", "/images/Anubis/Anubis_Connector2.jpg", "/images/Anubis/Anubis_Connector3.jpg", "/images/Anubis/Anubis_Connector4"]
+          "images": ["/images/Anubis/Anubis_Connector.PNG", "/images/Anubis/Anubis_Connector2.PNG", "/images/Anubis/Anubis_Connector3.PNG", "/images/Anubis/Anubis_Connector4.PNG"]
         },
         {
             "name": "Alley",
-            "images": ["/images/Anubis/Anubis_Alley.jpg"]
+            "images": ["/images/Anubis/Anubis_Alley.PNG"]
           },
           {
             "name": "A Main",
-            "images": ["/images/Anubis/Anubis_AMain.jpg", "/images/Anubis/Anubis_AMain2.jpg", "/images/Anubis/Anubis_AMain3.jpg"]
+            "images": ["/images/Anubis/Anubis_AMain.PNG", "/images/Anubis/Anubis_AMain2.PNG", "/images/Anubis/Anubis_AMain3.PNG"]
           },
         {
           "name": "Museum",
-          "images": ["/images/Anubis/Anubis_Museum.jpg", "/images/Anubis/Anubis_Museum2.jpg", "/images/Anubis/Anubis_Museum3.jpg"]
+          "images": ["/images/Anubis/Anubis_Museum.PNG", "/images/Anubis/Anubis_Museum2.PNG", "/images/Anubis/Anubis_Museum3.PNG"]
         },
         { 
             "name": "A Site",
-            "images": ["/images/Anubis/Anubis_ASite.jpg"]
+            "images": ["/images/Anubis/Anubis_ASite.PNG"]
           },
           {
             "name": "Back",
-            "images": ["/images/Anubis/Anubis_Back.jpg"]
+            "images": ["/images/Anubis/Anubis_Back.PNG"]
           },
           {
             "name": "Back Site",
-            "images": ["/images/Anubis/Anubis_BackSite.jpg", "/images/Anubis/Anubis_BackSite2.jpg", "/images/Anubis/Anubis_BackSite3.jpg"]
+            "images": ["/images/Anubis/Anubis_BackSite.PNG", "/images/Anubis/Anubis_BackSite2.PNG", "/images/Anubis/Anubis_BackSite3.PNG"]
           },
         {
           "name": "Grill",
-          "images": ["/images/Anubis/Anubis_Grill.jpg"]
+          "images": ["/images/Anubis/Anubis_Grill.PNG"]
         },
         {
             "name": "B Main",
-            "images": ["/images/Anubis/Anubis_BMain.jpg"]
+            "images": ["/images/Anubis/Anubis_BMain.PNG"]
           },
           {
             "name": "Boat",
-            "images": ["/images/Anubis/Anubis_Boat.jpg"]
+            "images": ["/images/Anubis/Anubis_Boat.PNG"]
           },
           {
             "name": "B Site",
-            "images": ["/images/Anubis/Anubis_BSite.jpg"]
+            "images": ["/images/Anubis/Anubis_BSite.PNG"]
           },
           {
             "name": "CT Spawn",
-            "images": ["/images/Anubis/Anubis_CTSpawn.jpg"]
+            "images": ["/images/Anubis/Anubis_CTSpawn.PNG"]
           },
           {
             "name": "Drop",
-            "images": ["/images/Anubis/Anubis_Drop.jpg"]
+            "images": ["/images/Anubis/Anubis_Drop.PNG"]
           },
           {
             "name": "Fountain",
-            "images": ["/images/Anubis/Anubis_Fountain.jpg"]
+            "images": ["/images/Anubis/Anubis_Fountain.PNG"]
           },
           {
             "name": "Headshot",
-            "images": ["/images/Anubis/Anubis_Headshot.jpg"]
+            "images": ["/images/Anubis/Anubis_Headshot.PNG"]
           },
           {
             "name": "Window",
-            "images": ["/images/Anubis/Anubis_Window.jpg"]
+            "images": ["/images/Anubis/Anubis_Window.PNG"]
           },
           {
             "name": "Tunnel",
-            "images": ["/images/Anubis/Anubis_Tunnel.jpg"]
+            "images": ["/images/Anubis/Anubis_Tunnel.PNG"]
           },
           {
             "name": "Top Mid",
-            "images": ["/images/Anubis/Anubis_TopMid.jpg", "/images/Anubis/Anubis_TopMid2.jpg"]
+            "images": ["/images/Anubis/Anubis_TopMid.PNG", "/images/Anubis/Anubis_TopMid2.PNG"]
           },
           {
             "name": "Temple",
-            "images": ["/images/Anubis/Anubis_Temple.jpg", "/images/Anubis/Anubis_Temple2.jpg"]
+            "images": ["/images/Anubis/Anubis_Temple.PNG", "/images/Anubis/Anubis_Temple2.PNG"]
           },
           {
             "name": "Stairs",
-            "images": ["/images/Anubis/Anubis_Stairs.jpg"]
+            "images": ["/images/Anubis/Anubis_Stairs.PNG"]
           },
           {
             "name": "Snipers",
-            "images": ["/images/Anubis/Anubis_Snipers.jpg"]
+            "images": ["/images/Anubis/Anubis_Snipers.PNG"]
           },
           {
             "name": "Ruins",
-            "images": ["/images/Anubis/Anubis_Ruins.jpg", "/images/Anubis/Anubis_Ruins2.jpg", "/images/Anubis/Anubis_Ruins3.jpg"]
+            "images": ["/images/Anubis/Anubis_Ruins.PNG", "/images/Anubis/Anubis_Ruins2.PNG", "/images/Anubis/Anubis_Ruins3.PNG"]
           },
           {
             "name": "Plateau",
-            "images": ["/images/Anubis/Anubis_Plateau.jpg", "/images/Anubis/Anubis_Plateau2.jpg"]
+            "images": ["/images/Anubis/Anubis_Plateau.PNG", "/images/Anubis/Anubis_Plateau2.PNG"]
           },
           {
             "name": "Pillar",
-            "images": ["/images/Anubis/Anubis_Pillar.jpg", "/images/Anubis/Anubis_Pillar2.jpg"]
+            "images": ["/images/Anubis/Anubis_Pillar.PNG", "/images/Anubis/Anubis_Pillar2.PNG"]
           },
           {
             "name": "Ninja",
-            "images": ["/images/Anubis/Anubis_Ninja.jpg", "/images/Anubis/Anubis_Ninja2.jpg"]
+            "images": ["/images/Anubis/Anubis_Ninja.PNG", "/images/Anubis/Anubis_Ninja2.PNG"]
           },
           {
             "name": "House",
-            "images": ["/images/Anubis/Anubis_House.jpg"]
+            "images": ["/images/Anubis/Anubis_House.PNG"]
           },
           {
             "name": "Middle",
-            "images": ["/images/Anubis/Anubis_Middle.jpg"]
+            "images": ["/images/Anubis/Anubis_Middle.PNG"]
           },
           {
             "name": "Ivy",
-            "images": ["/images/Anubis/Anubis_Ivy.jpg", "/images/Anubis/Anubis_Ivy2.jpg", "/images/Anubis/Anubis_Ivy3.jpg"]
+            "images": ["/images/Anubis/Anubis_Ivy.PNG", "/images/Anubis/Anubis_Ivy2.PNG", "/images/Anubis/Anubis_Ivy3.PNG"]
           },
           {
             "name": "Heaven",
-            "images": ["/images/Anubis/Anubis_Heaven.jpg", "/images/Anubis/Anubis_Heaven2.jpg"]
+            "images": ["/images/Anubis/Anubis_Heaven.PNG", "/images/Anubis/Anubis_Heaven2.PNG"]
           },
           {
             "name": "Entrance",
-            "images": ["/images/Anubis/Anubis_Entrance.jpg", "/images/Anubis/Anubis_Entrance2.jpg", "/images/Anubis/Anubis_Entrance3.jpg"]
+            "images": ["/images/Anubis/Anubis_Entrance.PNG", "/images/Anubis/Anubis_Entrance2.PNG", "/images/Anubis/Anubis_Entrance3.PNG"]
           },
           {
             "name": "Double Door",
-            "images": ["/images/Anubis/Anubis_DoubleDoors.jpg", "/images/Anubis/Anubis_DoubleDoors2.jpg"]
+            "images": ["/images/Anubis/Anubis_DoubleDoors.PNG", "/images/Anubis/Anubis_DoubleDoors2.PNG"]
           },
           
           {
             "name": "Default",
-            "images": ["/images/Anubis/Anubis_Default.jpg", "/images/Anubis/Anubis_Default2.jpg"]
+            "images": ["/images/Anubis/Anubis_Default.PNG", "/images/Anubis/Anubis_Default2.PNG"]
           },
           {
             "name": "Corner",
-            "images": ["/images/Anubis/Anubis_Corner.jpg", "/images/Anubis/Anubis_Corner2.jpg"]
+            "images": ["/images/Anubis/Anubis_Corner.PNG", "/images/Anubis/Anubis_Corner2.PNG"]
           },
 
         {
             "name": "B Long",
-            "images": ["/images/Anubis/Anubis_BLong.jpg"]
+            "images": ["/images/Anubis/Anubis_BLong.PNG"]
           }
      
       ]
@@ -148,87 +148,87 @@
       "locations": [
         {
           "name": "Big Box",
-          "images": ["/images/Vertigo/Vertigo_BigBox.jpg"]
+          "images": ["/images/Vertigo/Vertigo_BigBox.PNG"]
         },
         {
             "name": "B Site",
-            "images": ["/images/Vertigo/Vertigo_BSite.jpg"]
+            "images": ["/images/Vertigo/Vertigo_BSite.PNG"]
           },
           {
             "name": "Wood",
-            "images": ["/images/Vertigo/Vertigo_Wood.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Wood.PNG"]
           },
           {
             "name": "White Box",
-            "images": ["/images/Vertigo/Vertigo_WhiteBox.jpg", "/images/Vertigo/Vertigo_WhiteBox2.jpg"]
+            "images": ["/images/Vertigo/Vertigo_WhiteBox.PNG", "/images/Vertigo/Vertigo_WhiteBox2.PNG"]
           },
           {
             "name": "Underpass",
-            "images": ["/images/Vertigo/Vertigo_Underpass.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Underpass.PNG"]
           },
           {
             "name": "Top Ramp",
-            "images": ["/images/Vertigo/Vertigo_BSite.jpg"]
+            "images": ["/images/Vertigo/Vertigo_BSite.PNG"]
           },
           {
             "name": "Top Mid",
-            "images": ["/images/Vertigo/Vertigo_TopMid.jpg", "/images/Vertigo/Vertigo_TopMid2.jpg"]
+            "images": ["/images/Vertigo/Vertigo_TopMid.PNG", "/images/Vertigo/Vertigo_TopMid2.PNG"]
           },
           {
             "name": "Scaffolding",
-            "images": ["/images/Vertigo/Vertigo_Scaffold.jpg", "/images/Vertigo/Vertigo_Scaffold2.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Scaffold.PNG", "/images/Vertigo/Vertigo_Scaffold2.PNG"]
           },
           {
             "name": "Ladder",
-            "images": ["/images/Vertigo/Vertigo_Ladder.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Ladder.PNG"]
           },
           {
             "name": "Headshot",
-            "images": ["/images/Vertigo/Vertigo_Headshot.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Headshot.PNG"]
           },
           {
             "name": "Hallway",
-            "images": ["/images/Vertigo/Vertigo_Hallway.jpg", "/images/Vertigo/Vertigo_Hallway2.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Hallway.PNG", "/images/Vertigo/Vertigo_Hallway2.PNG"]
           },
           {
             "name": "Elevator",
-            "images": ["/images/Vertigo/Vertigo_Elevator.jpg", "/images/Vertigo/Vertigo_Elevator2.jpg", "/images/Vertigo/Vertigo_Elevator3.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Elevator.PNG", "/images/Vertigo/Vertigo_Elevator2.PNG", "/images/Vertigo/Vertigo_Elevator3.PNG"]
           },
           {
             "name": "E Box",
-            "images": ["/images/Vertigo/Vertigo_Ebox.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Ebox.PNG"]
           },
           {
             "name": "Dumpster",
-            "images": ["/images/Vertigo/Vertigo_Dumpster.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Dumpster.PNG"]
           },
           {
             "name": "Double",
-            "images": ["/images/Vertigo/Vertigo_Double.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Double.PNG"]
           },
           {
             "name": "CT Spawn",
-            "images": ["/images/Vertigo/Vertigo_CTSpawn.jpg", "/images/Vertigo/Vertigo_CTSpawn2.jpg"]
+            "images": ["/images/Vertigo/Vertigo_CTSpawn.PNG", "/images/Vertigo/Vertigo_CTSpawn2.PNG"]
           },
           {
             "name": "Corridor",
-            "images": ["/images/Vertigo/Vertigo_Corridor.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Corridor.PNG"]
           },
           {
             "name": "Connector",
-            "images": ["/images/Vertigo/Vertigo_Connector.jpg", "/images/Vertigo/Vertigo_Connector2.jpg", "/images/Vertigo/Vertigo_Connector3.jpg", "/images/Vertigo/Vertigo_Connector4.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Connector.PNG", "/images/Vertigo/Vertigo_Connector2.PNG", "/images/Vertigo/Vertigo_Connector3.PNG", "/images/Vertigo/Vertigo_Connector4.PNG"]
           },
         {
             "name": "Boost",
-            "images": ["/images/Vertigo/Vertigo_Boost.jpg", "/images/Vertigo/Vertigo_Boost2.jpg"]
+            "images": ["/images/Vertigo/Vertigo_Boost.PNG", "/images/Vertigo/Vertigo_Boost2.PNG"]
           },
         {
             "name": "A Site",
-            "images": ["/images/Vertigo/Vertigo_ASite.jpg", "/images/Vertigo/Vertigo_ASite2.jpg"]
+            "images": ["/images/Vertigo/Vertigo_ASite.PNG", "/images/Vertigo/Vertigo_ASite2.PNG"]
           },
         {
           "name": "Mid",
-          "images": ["/images/Vertigo/Vertigo_Mid.jpg", "/images/Vertigo/Vertigo_Mid2.jpg", "/images/Vertigo/Vertigo_Mid3.jpg"]
+          "images": ["/images/Vertigo/Vertigo_Mid.PNG", "/images/Vertigo/Vertigo_Mid2.PNG", "/images/Vertigo/Vertigo_Mid3.PNG"]
         }
      
       ]
