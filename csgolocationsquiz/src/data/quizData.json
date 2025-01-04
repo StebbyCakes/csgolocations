@@ -196,7 +196,7 @@
           },
           {
             "name": "E Box",
-            "images": ["/images/Vertigo/Vertigo_Ebox.PNG"]
+            "images": ["/images/Vertigo/Vertigo_EBox.PNG"]
           },
           {
             "name": "Dumpster",
@@ -232,6 +232,330 @@
         }
      
       ]
+    },
+    {
+        "map": "Nuke",
+        "locations": [
+            {
+                "name": "A Site",
+                "images": [
+                    "/images/Nuke/Nuke_ASite.PNG",
+                    "/images/Nuke/Nuke_ASite2.PNG",
+                    "/images/Nuke/Nuke_ASite3.PNG",
+                    "/images/Nuke/Nuke_ASite4.PNG",
+                    "/images/Nuke/Nuke_ASite5.PNG",
+                    "/images/Nuke/Nuke_ASite6.PNG"
+                ]
+            },
+            {
+                "name": "Big Box",
+                "images": [
+                    "/images/Nuke/Nuke_BigBox.PNG",
+                    "/images/Nuke/Nuke_BigBox2.PNG",
+                    "/images/Nuke/Nuke_BigBox3.PNG"
+                ]
+            },
+            {
+                "name": "Blue",
+                "images": [
+                    "/images/Nuke/Nuke_Blue.PNG",
+                    "/images/Nuke/Nuke_Blue2.PNG"
+                ]
+            },
+            {
+                "name": "Control",
+                "images": [
+                    "/images/Nuke/Nuke_Control.PNG",
+                    "/images/Nuke/Nuke_Control2.PNG"
+                ]
+            },
+            {
+                "name": "Control Room",
+                "images": [
+                    "/images/Nuke/Nuke_ControlRoom.PNG"
+                ]
+            },
+            {
+                "name": "Default",
+                "images": [
+                    "/images/Nuke/Nuke_Default.PNG"
+                ]
+            },
+            {
+                "name": "Drop",
+                "images": [
+                    "/images/Nuke/Nuke_Drop.PNG"
+                ]
+            },
+            {
+                "name": "Entrance",
+                "images": [
+                    "/images/Nuke/Nuke_Entrance.PNG"
+                ]
+            },
+            {
+                "name": "Heaven",
+                "images": [
+                    "/images/Nuke/Nuke_Heaven.PNG",
+                    "/images/Nuke/Nuke_Heaven2.PNG",
+                    "/images/Nuke/Nuke_Heaven3.PNG"
+                ]
+            },
+            {
+                "name": "Hut",
+                "images": [
+                    "/images/Nuke/Nuke_Hut.PNG",
+                    "/images/Nuke/Nuke_Hut2.PNG",
+                    "/images/Nuke/Nuke_Hut3.PNG"
+                ]
+            },
+            {
+                "name": "Left Ramp",
+                "images": [
+                    "/images/Nuke/Nuke_LeftRamp.PNG"
+                ]
+            },
+            {
+                "name": "Light",
+                "images": [
+                    "/images/Nuke/Nuke_Light.PNG"
+                ]
+            },
+            {
+                "name": "Lobby",
+                "images": [
+                    "/images/Nuke/Nuke_Lobby.PNG",
+                    "/images/Nuke/Nuke_Lobby2.PNG",
+                    "/images/Nuke/Nuke_Lobby3.PNG"
+                ]
+            },
+            {
+                "name": "Main",
+                "images": [
+                    "/images/Nuke/Nuke_Main.PNG",
+                    "/images/Nuke/Nuke_Main2.PNG"
+                ]
+            },
+            {
+                "name": "Outside",
+                "images": [
+                    "/images/Nuke/Nuke_Outside.PNG"
+                ]
+            },
+            {
+                "name": "Radio",
+                "images": [
+                    "/images/Nuke/Nuke_Radio.PNG"
+                ]
+            },
+            {
+                "name": "Ramp",
+                "images": [
+                    "/images/Nuke/Nuke_Ramp.PNG"
+                ]
+            },
+            {
+                "name": "Red Box",
+                "images": [
+                    "/images/Nuke/Nuke_RedBox.PNG",
+                    "/images/Nuke/Nuke_RedBox2.PNG",
+                    "/images/Nuke/Nuke_RedBox3.PNG",
+                    "/images/Nuke/Nuke_RedBox4.PNG"
+                ]
+            },
+            {
+                "name": "Right Ramp",
+                "images": [
+                    "/images/Nuke/Nuke_RightRamp.PNG",
+                    "/images/Nuke/Nuke_RightRamp2.PNG",
+                    "/images/Nuke/Nuke_RightRamp3.PNG"
+                ]
+            },
+            {
+                "name": "Secret",
+                "images": [
+                    "/images/Nuke/Nuke_Secret.PNG"
+                ]
+            },
+            {
+                "name": "Single",
+                "images": [
+                    "/images/Nuke/Nuke_Single.PNG"
+                ]
+            },
+            {
+                "name": "Squeaky",
+                "images": [
+                    "/images/Nuke/Nuke_Squeaky.PNG",
+                    "/images/Nuke/Nuke_Squeaky2.PNG"
+                ]
+            },
+            {
+                "name": "Stairs",
+                "images": [
+                    "/images/Nuke/Nuke_Stairs.PNG",
+                    "/images/Nuke/Nuke_Stairs2.PNG"
+                ]
+            }
+        ]
+    }, {
+        "map": "DustII",
+        "locations": [
+            {
+                "name": "XBox",
+                "images": [
+                    "/images/DustII/DustII_XBox.PNG",
+                    "/images/DustII/DustII_XBox2.PNG",
+                    "/images/DustII/DustII_XBox3.PNG",
+                    "/images/DustII/DustII_XBox4.PNG"
+                ]
+            },
+            {
+                "name": "Upper Tunnels",
+                "images": [
+                    "/images/DustII/DustII_UpperTunnels.PNG",
+                    "/images/DustII/DustII_UpperTunnels2.PNG",
+                    "/images/DustII/DustII_UpperTunnels3.PNG"
+                ]
+            },
+            {
+                "name": "Top Mid",
+                "images": [
+                    "/images/DustII/DustII_TopMid.PNG"
+                ]
+            },
+            {
+                "name": "Suicide",
+                "images": [
+                    "/images/DustII/DustII_Suicide.PNG",
+                    "/images/DustII/DustII_Suicide2.PNG"
+                ]
+            },
+            {
+                "name": "Platform",
+                "images": [
+                    "/images/DustII/DustII_Platform.PNG",
+                    "/images/DustII/DustII_Platform2.PNG"
+                ]
+            },
+            {
+                "name": "Pit",
+                "images": [
+                    "/images/DustII/DustII_Pit.PNG"
+                ]
+            },
+            {
+                "name": "Palm",
+                "images": [
+                    "/images/DustII/DustII_Palm.PNG",
+                    "/images/DustII/DustII_Palm2.PNG"
+                ]
+            },
+            {
+                "name": "Outside Long",
+                "images": [
+                    "/images/DustII/DustII_OutsideLong.PNG",
+                    "/images/DustII/DustII_OutsideLong2.PNG"
+                ]
+            },
+            {
+                "name": "Lower Tunnels",
+                "images": [
+                    "/images/DustII/DustII_LowerTunnels.PNG",
+                    "/images/DustII/DustII_LowerTunnels2.PNG",
+                    "/images/DustII/DustII_LowerTunnels3.PNG"
+                ]
+            },
+            {
+                "name": "Long Doors",
+                "images": [
+                    "/images/DustII/DustII_LongDoors.PNG"
+                ]
+            },
+            {
+                "name": "Long",
+                "images": [
+                    "/images/DustII/DustII_Long.PNG"
+                ]
+            },
+            {
+                "name": "Double Doors",
+                "images": [
+                    "/images/DustII/DustII_DoubleDoors.PNG",
+                    "/images/DustII/DustII_DoubleDoors2.PNG"
+                ]
+            },
+            {
+                "name": "Default",
+                "images": [
+                    "/images/DustII/DustII_Default.PNG"
+                ]
+            },
+            {
+                "name": "CT Spawn",
+                "images": [
+                    "/images/DustII/DustII_CTSpawn.PNG",
+                    "/images/DustII/DustII_CTSpawn2.PNG"
+                ]
+            },
+            {
+                "name": "CT Mid",
+                "images": [
+                    "/images/DustII/DustII_CTMid.PNG",
+                    "/images/DustII/DustII_CTMid2.PNG",
+                    "/images/DustII/DustII_CTMid3.PNG",
+                    "/images/DustII/DustII_CTMid4.PNG"
+                ]
+            },
+            {
+                "name": "Close",
+                "images": [
+                    "/images/DustII/DustII_Close.PNG"
+                ]
+            },
+            {
+                "name": "Catwalk",
+                "images": [
+                    "/images/DustII/DustII_Catwalk.PNG"
+                ]
+            },
+            {
+                "name": "Cat",
+                "images": [
+                    "/images/DustII/DustII_Cat.PNG",
+                    "/images/DustII/DustII_Cat2.PNG",
+                    "/images/DustII/DustII_Cat3.PNG",
+                    "/images/DustII/DustII_Cat4.PNG"
+                ]
+            },
+            {
+                "name": "Car",
+                "images": [
+                    "/images/DustII/DustII_Car.PNG"
+                ]
+            },
+            {
+                "name": "Boost",
+                "images": [
+                    "/images/DustII/DustII_Boost.PNG"
+                ]
+            },
+            {
+                "name": "Big Box",
+                "images": [
+                    "/images/DustII/DustII_BigBox.PNG"
+                ]
+            },
+            {
+                "name": "B Doors",
+                "images": [
+                    "/images/DustII/DustII_BDoors.PNG",
+                    "/images/DustII/DustII_BDoors2.PNG"
+                ]
+            }
+        ]
     }
+    
+    
   ]
   
