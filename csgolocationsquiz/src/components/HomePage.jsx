@@ -4,7 +4,6 @@ import { useNavigate } from 'react-router-dom';
 function HomePage() {
   const [title, setTitle] = useState('CSGOLOCATIONS.COM');
   const [highlight, setHighlight] = useState(false);
-  const [selectedMap, setSelectedMap] = useState('');
   const navigate = useNavigate();
 
   useEffect(() => {
@@ -14,28 +13,29 @@ function HomePage() {
       setTimeout(() => {
         setTitle(title.replace('GO', '2'));
         setHighlight(false);
-      }, 2000);  // Time after which "GO" is replaced with "2"
-    }, 1000);  // Initial delay before starting the highlight
+      }, 2000); // Time after which "GO" is replaced with "2"
+    }, 1000); // Initial delay before starting the highlight
 
     return () => clearTimeout(timer);
   }, []);
 
-  const maps = ['Dust II', 'Mirage', 'Inferno', 'Nuke', 'Overpass', 'Vertigo', 'Ancient'];
+  const maps = [
+    { name: 'Dust II', file: 'DustII' },
+    { name: 'Mirage', file: 'Mirage' },
+    { name: 'Inferno', file: 'Inferno' },
+    { name: 'Nuke', file: 'Nuke' },
+    { name: 'Anubis', file: 'Anubis' },
+    { name: 'Vertigo', file: 'Vertigo' },
+    { name: 'Ancient', file: 'Ancient' }
+  ];
 
-  const formatMapNameForUrl = (mapName) => {
-    return mapName.replace(/\s+/g, '').toLowerCase(); // Remove spaces and convert to lowercase
+  const handleMapClick = (mapFile) => {
+    const formattedMapName = mapFile.replace(/\s+/g, '').toLowerCase();
+    navigate(`/quiz/${formattedMapName}`);
   };
 
   const handleActiveDutyClick = () => {
     navigate('/quiz/active');
-  };
-
-  const handleMapSelection = (e) => {
-    const map = e.target.value;
-    setSelectedMap(map);
-    if (map) {
-      navigate(`/quiz/${formatMapNameForUrl(map)}`);
-    }
   };
 
   return (
@@ -45,14 +45,44 @@ function HomePage() {
           index === 0 ? part : [<span key="highlight" style={{ backgroundColor: highlight ? 'yellow' : 'transparent' }}>GO</span>, part])
         }
       </h1>
-      <p>The best way to learn Counter-Strike callouts</p>
+      <p>The easiest way to learn Counter-Strike callouts</p>
       <button onClick={handleActiveDutyClick} style={{ padding: '10px 20px', margin: '10px', fontSize: '16px' }}>Active Duty Maps</button>
-      <select onChange={handleMapSelection} value={selectedMap} style={{ padding: '10px 20px', margin: '10px', fontSize: '16px' }}>
-        <option value="">Select a Map</option>
-        {maps.map(map => (
-          <option key={map} value={map}>{map}</option>
+      <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', maxWidth: '1200px', margin: '20px auto' }}>
+        {maps.map((map, index) => (
+          <div key={map.name} onClick={() => handleMapClick(map.file)}
+               style={{
+                 width: '223px',
+                 height: '223px',
+                 margin: '10px',
+                 position: 'relative',
+                 overflow: 'hidden',
+                 borderRadius: '15px',
+                 boxShadow: '0 8px 16px rgba(0,0,0,0.15)',
+                 cursor: 'pointer',
+                 transform: 'scale(1)',
+                 transition: 'transform 0.3s ease-in-out'
+               }}
+               onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
+               onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
+          >
+            <img src={`images/Maps/${map.file}.png`} alt={map.name}
+                 style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            <div style={{
+                 position: 'absolute',
+                 bottom: '0',
+                 width: '100%',
+                 textAlign: 'center',
+                 background: 'rgba(0,0,0,0.6)',
+                 color: 'white',
+                 fontSize: '18px',
+                 padding: '10px 0'
+               }}
+            >
+              {map.name}
+            </div>
+          </div>
         ))}
-      </select>
+      </div>
     </div>
   );
 }
