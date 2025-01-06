@@ -554,7 +554,67 @@
                 ]
             }
         ]
-    }
+    }, {
+        "map": "Inferno",
+        "locations": [
+          { "name": "Truck", "images": ["/images/Inferno/Inferno_Truck.PNG"] },
+          { "name": "2nd Mid", "images": ["/images/Inferno/Inferno_2ndMid.PNG"] },
+          { "name": "A Long", "images": ["/images/Inferno/Inferno_ALong.PNG", "/images/Inferno/Inferno_ALong2.PNG", "/images/Inferno/Inferno_ALong3.PNG", "/images/Inferno/Inferno_ALong4.PNG"] },
+          { "name": "Aps", "images": ["/images/Inferno/Inferno_Aps.PNG"] },
+          { "name": "Arches", "images": ["/images/Inferno/Inferno_Arches.PNG", "/images/Inferno/Inferno_Arches2.PNG"] },
+          { "name": "A Site", "images": ["/images/Inferno/Inferno_ASite.PNG"] },
+          { "name": "Back Site", "images": ["/images/Inferno/Inferno_BackSite.PNG"] },
+          { "name": "Balcony", "images": ["/images/Inferno/Inferno_Balcony.PNG"] },
+          { "name": "Banana", "images": ["/images/Inferno/Inferno_Banana.PNG", "/images/Inferno/Inferno_Banana2.PNG", "/images/Inferno/Inferno_Banana3.PNG"] },
+          { "name": "Bottom Mid", "images": ["/images/Inferno/Inferno_BottomMid.PNG", "/images/Inferno/Inferno_BottomMid2.PNG"] },
+          { "name": "Car", "images": ["/images/Inferno/Inferno_Car.PNG"] },
+          { "name": "Cemetery", "images": ["/images/Inferno/Inferno_Cemetery.PNG"] },
+          { "name": "Coffins", "images": ["/images/Inferno/Inferno_Coffins.PNG"] },
+          { "name": "Default", "images": ["/images/Inferno/Inferno_Default.PNG"] },
+          { "name": "Garden", "images": ["/images/Inferno/Inferno_Garden.PNG"] },
+          { "name": "Graveyard", "images": ["/images/Inferno/Inferno_Graveyard.PNG"] },
+          { "name": "Library", "images": ["/images/Inferno/Inferno_Library.PNG", "/images/Inferno/Inferno_Library2.PNG"] },
+          { "name": "Orange", "images": ["/images/Inferno/Inferno_Orange.PNG"] },
+          { "name": "Patio", "images": ["/images/Inferno/Inferno_Patio.PNG", "/images/Inferno/Inferno_Patio2.PNG"] },
+          { "name": "Ramp", "images": ["/images/Inferno/Inferno_Ramp.PNG", "/images/Inferno/Inferno_Ramp2.PNG"] },
+          { "name": "Red Door", "images": ["/images/Inferno/Inferno_RedDoor.PNG"] },
+          { "name": "Stairs", "images": ["/images/Inferno/Inferno_Stairs.PNG"] },
+          { "name": "Top Mid", "images": ["/images/Inferno/Inferno_TopMid.PNG", "/images/Inferno/Inferno_TopMid2.PNG"] }
+        ]
+      }, {
+        "map": "Mirage",
+        "locations": [
+          { "name": "Vent", "images": ["/images/Mirage/Mirage_Vent.PNG"] },
+          { "name": "Van", "images": ["/images/Mirage/Mirage_Van.PNG", "/images/Mirage/Mirage_Van2.PNG"] },
+          { "name": "Underpass", "images": ["/images/Mirage/Mirage_Underpass.PNG"] },
+          { "name": "T Spawn", "images": ["/images/Mirage/Mirage_TSpawn.PNG"] },
+          { "name": "Triple Box", "images": ["/images/Mirage/Mirage_TripleBox.PNG", "/images/Mirage/Mirage_TripleBox2.PNG"] },
+          { "name": "Top Mid", "images": ["/images/Mirage/Mirage_TopMid.PNG", "/images/Mirage/Mirage_TopMid2.PNG"] },
+          { "name": "Ticket Booth", "images": ["/images/Mirage/Mirage_TicketBooth.PNG", "/images/Mirage/Mirage_TicketBooth2.PNG", "/images/Mirage/Mirage_TicketBooth3.PNG"] },
+          { "name": "Tetris", "images": ["/images/Mirage/Mirage_Tetris.PNG"] },
+          { "name": "Stairs", "images": ["/images/Mirage/Mirage_Stairs.PNG", "/images/Mirage/Mirage_Stairs2.PNG"] },
+          { "name": "Snipers", "images": ["/images/Mirage/Mirage_Snipers.PNG", "/images/Mirage/Mirage_Snipers2.PNG", "/images/Mirage/Mirage_Snipers3.PNG"] },
+          { "name": "Short", "images": ["/images/Mirage/Mirage_Short.PNG"] },
+          { "name": "Shadow", "images": ["/images/Mirage/Mirage_Shadow.PNG", "/images/Mirage/Mirage_Shadow2.PNG"] },
+          { "name": "Ramp", "images": ["/images/Mirage/Mirage_Ramp.PNG", "/images/Mirage/Mirage_Ramp2.PNG"] },
+          { "name": "Palace", "images": ["/images/Mirage/Mirage_Palace.PNG"] },
+          { "name": "Market", "images": ["/images/Mirage/Mirage_Market.PNG", "/images/Mirage/Mirage_Market2.PNG"] },
+          { "name": "Kitchen", "images": ["/images/Mirage/Mirage_Kitchen.PNG"] },
+          { "name": "Jungle", "images": ["/images/Mirage/Mirage_Jungle.PNG"] },
+          { "name": "Forest", "images": ["/images/Mirage/Mirage_Forest.PNG", "/images/Mirage/Mirage_Forest2.PNG"] },
+          { "name": "FireBox", "images": ["/images/Mirage/Mirage_FireBox.PNG"] },
+          { "name": "Door", "images": ["/images/Mirage/Mirage_Door.PNG"] },
+          { "name": "Default", "images": ["/images/Mirage/Mirage_Default.PNG", "/images/Mirage/Mirage_Default2.PNG"] },
+          { "name": "Connector", "images": ["/images/Mirage/Mirage_Connector.PNG"] },
+          { "name": "Catwalk", "images": ["/images/Mirage/Mirage_Catwalk.PNG"] },
+          { "name": "BSite", "images": ["/images/Mirage/Mirage_BSite.PNG"] },
+          { "name": "Bench", "images": ["/images/Mirage/Mirage_Bench.PNG", "/images/Mirage/Mirage_Bench2.PNG"] },
+          { "name": "Arches", "images": ["/images/Mirage/Mirage_Arches.PNG"] },
+          { "name": "Aps", "images": ["/images/Mirage/Mirage_Aps.PNG", "/images/Mirage/Mirage_Aps2.PNG"] }
+        ]
+      }
+      
+      
     
     
   ]

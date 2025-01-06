@@ -46,7 +46,7 @@ function HomePage() {
         }
       </h1>
       <p>The easiest way to learn Counter-Strike callouts</p>
-      <button onClick={handleActiveDutyClick} style={{ padding: '10px 20px', margin: '10px', fontSize: '16px' }}>Active Duty Maps</button>
+      <button onClick={handleActiveDutyClick} style={{ padding: '10px 20px', margin: '10px', fontSize: '16px' }}>Random Quiz</button>
       <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', maxWidth: '1200px', margin: '20px auto' }}>
         {maps.map((map, index) => (
           <div key={map.name} onClick={() => handleMapClick(map.file)}

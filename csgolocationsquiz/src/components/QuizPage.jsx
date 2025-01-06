@@ -83,7 +83,6 @@ function QuizPage() {
         setCurrentQuestionIndex(0);
         setSelectedOption('');
         setIsAnswered(false);
-        // Regenerate the quiz
         navigate(0);
     };
 
@@ -103,27 +102,37 @@ function QuizPage() {
     const currentQuestion = questions[currentQuestionIndex];
 
     return (
-        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '100vh' }}>
-            <h2>{currentQuestion.mapName}</h2>
-            <div className="image-container" style={{ position: 'relative', display: 'flex', justifyContent: 'center' }}>
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '100vh', backgroundColor: '#212529' }}>
+            <h2 style={{ marginBottom: '20px', fontSize: '24px', color: '#f8f9fa' }}>{currentQuestion.mapName}</h2>
+            <div className="image-container" style={{ position: 'relative', display: 'flex', justifyContent: 'center', marginBottom: '20px' }}>
                 <img 
                     src={currentQuestion.image} 
                     alt={currentQuestion.locationName} 
-                    style={{ maxWidth: '100%', maxHeight: '400px' }} 
+                    style={{ width: '700px', height: '450px', objectFit: 'cover', borderRadius: '10px', boxShadow: '0 8px 16px rgba(0,0,0,0.3)' }} 
                 />
-                <div style={{ position: 'absolute', top: '10px', right: '10px', fontSize: '20px', backgroundColor: 'rgba(0,0,0,0.7)', padding: '5px', borderRadius: '10px', color: 'white' }}>
+                <div style={{ position: 'absolute', top: '10px', right: '10px', fontSize: '20px', backgroundColor: 'rgba(0,0,0,0.7)', padding: '5px 10px', borderRadius: '10px', color: 'white' }}>
                     {currentQuestionIndex + 1}/12
                 </div>
             </div>
-            <div style={{ marginTop: '20px' }}>
+            <div>
                 {currentQuestion.options.map((option, index) => (
                     <button
                         key={index}
                         onClick={() => handleOptionClick(option)}
                         style={{
-                            backgroundColor: !isAnswered ? 'lightgray' : option === selectedOption ? (option === currentQuestion.locationName ? 'green' : 'red') : (option === currentQuestion.locationName ? 'yellow' : 'lightgray'),
-                            borderColor: 'black', margin: '5px', padding: '10px', fontSize: '16px'
+                            backgroundColor: !isAnswered ? '#6c757d' : option === selectedOption ? (option === currentQuestion.locationName ? '#28a745' : '#dc3545') : (option === currentQuestion.locationName ? '#ffc107' : '#6c757d'),
+                            color: 'white',
+                            border: 'none',
+                            borderRadius: '5px',
+                            padding: '15px 30px',
+                            margin: '5px',
+                            fontSize: '18px',
+                            cursor: 'pointer',
+                            transition: 'transform 0.2s',
+                            outline: 'none'
                         }}
+                        onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.05)'}
+                        onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
                     >
                         {option}
                     </button>
