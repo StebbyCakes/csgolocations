@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 
+
 function HomePage() {
   const [title, setTitle] = useState('CSGOLOCATIONS.COM');
   const [highlight, setHighlight] = useState(false);
