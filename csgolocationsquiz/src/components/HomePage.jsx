@@ -8,7 +8,7 @@ function HomePage() {
 
   useEffect(() => {
    
-    
+
     const timer = setTimeout(() => {
       setHighlight(true);
       setTimeout(() => {
@@ -66,7 +66,7 @@ function HomePage() {
                onMouseEnter={(e) => e.currentTarget.style.transform = 'scale(1.1)'}
                onMouseLeave={(e) => e.currentTarget.style.transform = 'scale(1)'}
           >
-            <img src={`images/Maps/${map.file}.png`} alt={map.name}
+            <img src={`/csgolocations/images/Maps/${map.file}.png`} alt={map.name}
                  style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             <div style={{
                  position: 'absolute',
