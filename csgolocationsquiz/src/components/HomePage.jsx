@@ -7,14 +7,15 @@ function HomePage() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    // Start the highlight animation after 1 second
+   
+    
     const timer = setTimeout(() => {
       setHighlight(true);
       setTimeout(() => {
         setTitle(title.replace('GO', '2'));
         setHighlight(false);
-      }, 2000); // Time after which "GO" is replaced with "2"
-    }, 1000); // Initial delay before starting the highlight
+      }, 2000); 
+    }, 1000);
 
     return () => clearTimeout(timer);
   }, []);
