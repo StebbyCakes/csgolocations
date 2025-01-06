@@ -2,143 +2,147 @@
     {
       "map": "Anubis",
       "locations": [
+        
+
+
+        
         {
           "name": "Connector",
-          "images": ["/images/Anubis/Anubis_Connector.PNG", "/images/Anubis/Anubis_Connector2.PNG", "/images/Anubis/Anubis_Connector3.PNG", "/images/Anubis/Anubis_Connector4.PNG"]
+          "images": ["/stebbycakes/images/Anubis/Anubis_Connector.PNG", "/stebbycakes/images/Anubis/Anubis_Connector2.PNG", "/stebbycakes/images/Anubis/Anubis_Connector3.PNG", "/stebbycakes/images/Anubis/Anubis_Connector4.PNG"]
         },
         {
             "name": "Alley",
-            "images": ["/images/Anubis/Anubis_Alley.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Alley.PNG"]
           },
           {
             "name": "A Main",
-            "images": ["/images/Anubis/Anubis_AMain.PNG", "/images/Anubis/Anubis_AMain2.PNG", "/images/Anubis/Anubis_AMain3.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_AMain.PNG", "/stebbycakes/images/Anubis/Anubis_AMain2.PNG", "/stebbycakes/images/Anubis/Anubis_AMain3.PNG"]
           },
         {
           "name": "Museum",
-          "images": ["/images/Anubis/Anubis_Museum.PNG", "/images/Anubis/Anubis_Museum2.PNG", "/images/Anubis/Anubis_Museum3.PNG"]
+          "images": ["/stebbycakes/images/Anubis/Anubis_Museum.PNG", "/stebbycakes/images/Anubis/Anubis_Museum2.PNG", "/stebbycakes/images/Anubis/Anubis_Museum3.PNG"]
         },
         { 
             "name": "A Site",
-            "images": ["/images/Anubis/Anubis_ASite.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_ASite.PNG"]
           },
           {
             "name": "Back",
-            "images": ["/images/Anubis/Anubis_Back.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Back.PNG"]
           },
           {
             "name": "Back Site",
-            "images": ["/images/Anubis/Anubis_BackSite.PNG", "/images/Anubis/Anubis_BackSite2.PNG", "/images/Anubis/Anubis_BackSite3.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_BackSite.PNG", "/stebbycakes/images/Anubis/Anubis_BackSite2.PNG", "/stebbycakes/images/Anubis/Anubis_BackSite3.PNG"]
           },
         {
           "name": "Grill",
-          "images": ["/images/Anubis/Anubis_Grill.PNG"]
+          "images": ["/stebbycakes/images/Anubis/Anubis_Grill.PNG"]
         },
         {
             "name": "B Main",
-            "images": ["/images/Anubis/Anubis_BMain.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_BMain.PNG"]
           },
           {
             "name": "Boat",
-            "images": ["/images/Anubis/Anubis_Boat.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Boat.PNG"]
           },
           {
             "name": "B Site",
-            "images": ["/images/Anubis/Anubis_BSite.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_BSite.PNG"]
           },
           {
             "name": "CT Spawn",
-            "images": ["/images/Anubis/Anubis_CTSpawn.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_CTSpawn.PNG"]
           },
           {
             "name": "Drop",
-            "images": ["/images/Anubis/Anubis_Drop.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Drop.PNG"]
           },
           {
             "name": "Fountain",
-            "images": ["/images/Anubis/Anubis_Fountain.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Fountain.PNG"]
           },
           {
             "name": "Headshot",
-            "images": ["/images/Anubis/Anubis_Headshot.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Headshot.PNG"]
           },
           {
             "name": "Window",
-            "images": ["/images/Anubis/Anubis_Window.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Window.PNG"]
           },
           {
             "name": "Tunnel",
-            "images": ["/images/Anubis/Anubis_Tunnel.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Tunnel.PNG"]
           },
           {
             "name": "Top Mid",
-            "images": ["/images/Anubis/Anubis_TopMid.PNG", "/images/Anubis/Anubis_TopMid2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_TopMid.PNG", "/stebbycakes/images/Anubis/Anubis_TopMid2.PNG"]
           },
           {
             "name": "Temple",
-            "images": ["/images/Anubis/Anubis_Temple.PNG", "/images/Anubis/Anubis_Temple2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Temple.PNG", "/stebbycakes/images/Anubis/Anubis_Temple2.PNG"]
           },
           {
             "name": "Stairs",
-            "images": ["/images/Anubis/Anubis_Stairs.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Stairs.PNG"]
           },
           {
             "name": "Snipers",
-            "images": ["/images/Anubis/Anubis_Snipers.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Snipers.PNG"]
           },
           {
             "name": "Ruins",
-            "images": ["/images/Anubis/Anubis_Ruins.PNG", "/images/Anubis/Anubis_Ruins2.PNG", "/images/Anubis/Anubis_Ruins3.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Ruins.PNG", "/stebbycakes/images/Anubis/Anubis_Ruins2.PNG", "/stebbycakes/images/Anubis/Anubis_Ruins3.PNG"]
           },
           {
             "name": "Plateau",
-            "images": ["/images/Anubis/Anubis_Plateau.PNG", "/images/Anubis/Anubis_Plateau2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Plateau.PNG", "/stebbycakes/images/Anubis/Anubis_Plateau2.PNG"]
           },
           {
             "name": "Pillar",
-            "images": ["/images/Anubis/Anubis_Pillar.PNG", "/images/Anubis/Anubis_Pillar2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Pillar.PNG", "/stebbycakes/images/Anubis/Anubis_Pillar2.PNG"]
           },
           {
             "name": "Ninja",
-            "images": ["/images/Anubis/Anubis_Ninja.PNG", "/images/Anubis/Anubis_Ninja2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Ninja.PNG", "/stebbycakes/images/Anubis/Anubis_Ninja2.PNG"]
           },
           {
             "name": "House",
-            "images": ["/images/Anubis/Anubis_House.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_House.PNG"]
           },
           {
             "name": "Middle",
-            "images": ["/images/Anubis/Anubis_Middle.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Middle.PNG"]
           },
           {
             "name": "Ivy",
-            "images": ["/images/Anubis/Anubis_Ivy.PNG", "/images/Anubis/Anubis_Ivy2.PNG", "/images/Anubis/Anubis_Ivy3.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Ivy.PNG", "/stebbycakes/images/Anubis/Anubis_Ivy2.PNG", "/stebbycakes/images/Anubis/Anubis_Ivy3.PNG"]
           },
           {
             "name": "Heaven",
-            "images": ["/images/Anubis/Anubis_Heaven.PNG", "/images/Anubis/Anubis_Heaven2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Heaven.PNG", "/stebbycakes/images/Anubis/Anubis_Heaven2.PNG"]
           },
           {
             "name": "Entrance",
-            "images": ["/images/Anubis/Anubis_Entrance.PNG", "/images/Anubis/Anubis_Entrance2.PNG", "/images/Anubis/Anubis_Entrance3.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Entrance.PNG", "/stebbycakes/images/Anubis/Anubis_Entrance2.PNG", "/stebbycakes/images/Anubis/Anubis_Entrance3.PNG"]
           },
           {
             "name": "Double Door",
-            "images": ["/images/Anubis/Anubis_DoubleDoors.PNG", "/images/Anubis/Anubis_DoubleDoors2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_DoubleDoors.PNG", "/stebbycakes/images/Anubis/Anubis_DoubleDoors2.PNG"]
           },
           
           {
             "name": "Default",
-            "images": ["/images/Anubis/Anubis_Default.PNG", "/images/Anubis/Anubis_Default2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Default.PNG", "/stebbycakes/images/Anubis/Anubis_Default2.PNG"]
           },
           {
             "name": "Corner",
-            "images": ["/images/Anubis/Anubis_Corner.PNG", "/images/Anubis/Anubis_Corner2.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_Corner.PNG", "/stebbycakes/images/Anubis/Anubis_Corner2.PNG"]
           },
 
         {
             "name": "B Long",
-            "images": ["/images/Anubis/Anubis_BLong.PNG"]
+            "images": ["/stebbycakes/images/Anubis/Anubis_BLong.PNG"]
           }
      
       ]
@@ -148,87 +152,87 @@
       "locations": [
         {
           "name": "Big Box",
-          "images": ["/images/Vertigo/Vertigo_BigBox.PNG"]
+          "images": ["/stebbycakes/images/Vertigo/Vertigo_BigBox.PNG"]
         },
         {
             "name": "B Site",
-            "images": ["/images/Vertigo/Vertigo_BSite.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_BSite.PNG"]
           },
           {
             "name": "Wood",
-            "images": ["/images/Vertigo/Vertigo_Wood.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Wood.PNG"]
           },
           {
             "name": "White Box",
-            "images": ["/images/Vertigo/Vertigo_WhiteBox.PNG", "/images/Vertigo/Vertigo_WhiteBox2.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_WhiteBox.PNG", "/stebbycakes/images/Vertigo/Vertigo_WhiteBox2.PNG"]
           },
           {
             "name": "Underpass",
-            "images": ["/images/Vertigo/Vertigo_Underpass.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Underpass.PNG"]
           },
           {
             "name": "Top Ramp",
-            "images": ["/images/Vertigo/Vertigo_BSite.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_BSite.PNG"]
           },
           {
             "name": "Top Mid",
-            "images": ["/images/Vertigo/Vertigo_TopMid.PNG", "/images/Vertigo/Vertigo_TopMid2.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_TopMid.PNG", "/stebbycakes/images/Vertigo/Vertigo_TopMid2.PNG"]
           },
           {
             "name": "Scaffolding",
-            "images": ["/images/Vertigo/Vertigo_Scaffold.PNG", "/images/Vertigo/Vertigo_Scaffold2.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Scaffold.PNG", "/stebbycakes/images/Vertigo/Vertigo_Scaffold2.PNG"]
           },
           {
             "name": "Ladder",
-            "images": ["/images/Vertigo/Vertigo_Ladder.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Ladder.PNG"]
           },
           {
             "name": "Headshot",
-            "images": ["/images/Vertigo/Vertigo_Headshot.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Headshot.PNG"]
           },
           {
             "name": "Hallway",
-            "images": ["/images/Vertigo/Vertigo_Hallway.PNG", "/images/Vertigo/Vertigo_Hallway2.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Hallway.PNG", "/stebbycakes/images/Vertigo/Vertigo_Hallway2.PNG"]
           },
           {
             "name": "Elevator",
-            "images": ["/images/Vertigo/Vertigo_Elevator.PNG", "/images/Vertigo/Vertigo_Elevator2.PNG", "/images/Vertigo/Vertigo_Elevator3.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Elevator.PNG", "/stebbycakes/images/Vertigo/Vertigo_Elevator2.PNG", "/stebbycakes/images/Vertigo/Vertigo_Elevator3.PNG"]
           },
           {
             "name": "E Box",
-            "images": ["/images/Vertigo/Vertigo_EBox.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_EBox.PNG"]
           },
           {
             "name": "Dumpster",
-            "images": ["/images/Vertigo/Vertigo_Dumpster.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Dumpster.PNG"]
           },
           {
             "name": "Double",
-            "images": ["/images/Vertigo/Vertigo_Double.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Double.PNG"]
           },
           {
             "name": "CT Spawn",
-            "images": ["/images/Vertigo/Vertigo_CTSpawn.PNG", "/images/Vertigo/Vertigo_CTSpawn2.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_CTSpawn.PNG", "/stebbycakes/images/Vertigo/Vertigo_CTSpawn2.PNG"]
           },
           {
             "name": "Corridor",
-            "images": ["/images/Vertigo/Vertigo_Corridor.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Corridor.PNG"]
           },
           {
             "name": "Connector",
-            "images": ["/images/Vertigo/Vertigo_Connector.PNG", "/images/Vertigo/Vertigo_Connector2.PNG", "/images/Vertigo/Vertigo_Connector3.PNG", "/images/Vertigo/Vertigo_Connector4.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Connector.PNG", "/stebbycakes/images/Vertigo/Vertigo_Connector2.PNG", "/stebbycakes/images/Vertigo/Vertigo_Connector3.PNG", "/stebbycakes/images/Vertigo/Vertigo_Connector4.PNG"]
           },
         {
             "name": "Boost",
-            "images": ["/images/Vertigo/Vertigo_Boost.PNG", "/images/Vertigo/Vertigo_Boost2.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_Boost.PNG", "/stebbycakes/images/Vertigo/Vertigo_Boost2.PNG"]
           },
         {
             "name": "A Site",
-            "images": ["/images/Vertigo/Vertigo_ASite.PNG", "/images/Vertigo/Vertigo_ASite2.PNG"]
+            "images": ["/stebbycakes/images/Vertigo/Vertigo_ASite.PNG", "/stebbycakes/images/Vertigo/Vertigo_ASite2.PNG"]
           },
         {
           "name": "Mid",
-          "images": ["/images/Vertigo/Vertigo_Mid.PNG", "/images/Vertigo/Vertigo_Mid2.PNG", "/images/Vertigo/Vertigo_Mid3.PNG"]
+          "images": ["/stebbycakes/images/Vertigo/Vertigo_Mid.PNG", "/stebbycakes/images/Vertigo/Vertigo_Mid2.PNG", "/stebbycakes/images/Vertigo/Vertigo_Mid3.PNG"]
         }
      
       ]
@@ -239,162 +243,162 @@
             {
                 "name": "A Site",
                 "images": [
-                    "/images/Nuke/Nuke_ASite.PNG",
-                    "/images/Nuke/Nuke_ASite2.PNG",
-                    "/images/Nuke/Nuke_ASite3.PNG",
-                    "/images/Nuke/Nuke_ASite4.PNG",
-                    "/images/Nuke/Nuke_ASite5.PNG",
-                    "/images/Nuke/Nuke_ASite6.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_ASite.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_ASite2.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_ASite3.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_ASite4.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_ASite5.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_ASite6.PNG"
                 ]
             },
             {
                 "name": "Big Box",
                 "images": [
-                    "/images/Nuke/Nuke_BigBox.PNG",
-                    "/images/Nuke/Nuke_BigBox2.PNG",
-                    "/images/Nuke/Nuke_BigBox3.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_BigBox.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_BigBox2.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_BigBox3.PNG"
                 ]
             },
             {
                 "name": "Blue",
                 "images": [
-                    "/images/Nuke/Nuke_Blue.PNG",
-                    "/images/Nuke/Nuke_Blue2.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Blue.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Blue2.PNG"
                 ]
             },
             {
                 "name": "Control",
                 "images": [
-                    "/images/Nuke/Nuke_Control.PNG",
-                    "/images/Nuke/Nuke_Control2.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Control.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Control2.PNG"
                 ]
             },
             {
                 "name": "Control Room",
                 "images": [
-                    "/images/Nuke/Nuke_ControlRoom.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_ControlRoom.PNG"
                 ]
             },
             {
                 "name": "Default",
                 "images": [
-                    "/images/Nuke/Nuke_Default.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Default.PNG"
                 ]
             },
             {
                 "name": "Drop",
                 "images": [
-                    "/images/Nuke/Nuke_Drop.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Drop.PNG"
                 ]
             },
             {
                 "name": "Entrance",
                 "images": [
-                    "/images/Nuke/Nuke_Entrance.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Entrance.PNG"
                 ]
             },
             {
                 "name": "Heaven",
                 "images": [
-                    "/images/Nuke/Nuke_Heaven.PNG",
-                    "/images/Nuke/Nuke_Heaven2.PNG",
-                    "/images/Nuke/Nuke_Heaven3.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Heaven.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Heaven2.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Heaven3.PNG"
                 ]
             },
             {
                 "name": "Hut",
                 "images": [
-                    "/images/Nuke/Nuke_Hut.PNG",
-                    "/images/Nuke/Nuke_Hut2.PNG",
-                    "/images/Nuke/Nuke_Hut3.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Hut.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Hut2.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Hut3.PNG"
                 ]
             },
             {
                 "name": "Left Ramp",
                 "images": [
-                    "/images/Nuke/Nuke_LeftRamp.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_LeftRamp.PNG"
                 ]
             },
             {
                 "name": "Light",
                 "images": [
-                    "/images/Nuke/Nuke_Light.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Light.PNG"
                 ]
             },
             {
                 "name": "Lobby",
                 "images": [
-                    "/images/Nuke/Nuke_Lobby.PNG",
-                    "/images/Nuke/Nuke_Lobby2.PNG",
-                    "/images/Nuke/Nuke_Lobby3.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Lobby.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Lobby2.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Lobby3.PNG"
                 ]
             },
             {
                 "name": "Main",
                 "images": [
-                    "/images/Nuke/Nuke_Main.PNG",
-                    "/images/Nuke/Nuke_Main2.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Main.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Main2.PNG"
                 ]
             },
             {
                 "name": "Outside",
                 "images": [
-                    "/images/Nuke/Nuke_Outside.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Outside.PNG"
                 ]
             },
             {
                 "name": "Radio",
                 "images": [
-                    "/images/Nuke/Nuke_Radio.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Radio.PNG"
                 ]
             },
             {
                 "name": "Ramp",
                 "images": [
-                    "/images/Nuke/Nuke_Ramp.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Ramp.PNG"
                 ]
             },
             {
                 "name": "Red Box",
                 "images": [
-                    "/images/Nuke/Nuke_RedBox.PNG",
-                    "/images/Nuke/Nuke_RedBox2.PNG",
-                    "/images/Nuke/Nuke_RedBox3.PNG",
-                    "/images/Nuke/Nuke_RedBox4.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_RedBox.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_RedBox2.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_RedBox3.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_RedBox4.PNG"
                 ]
             },
             {
                 "name": "Right Ramp",
                 "images": [
-                    "/images/Nuke/Nuke_RightRamp.PNG",
-                    "/images/Nuke/Nuke_RightRamp2.PNG",
-                    "/images/Nuke/Nuke_RightRamp3.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_RightRamp.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_RightRamp2.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_RightRamp3.PNG"
                 ]
             },
             {
                 "name": "Secret",
                 "images": [
-                    "/images/Nuke/Nuke_Secret.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Secret.PNG"
                 ]
             },
             {
                 "name": "Single",
                 "images": [
-                    "/images/Nuke/Nuke_Single.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Single.PNG"
                 ]
             },
             {
                 "name": "Squeaky",
                 "images": [
-                    "/images/Nuke/Nuke_Squeaky.PNG",
-                    "/images/Nuke/Nuke_Squeaky2.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Squeaky.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Squeaky2.PNG"
                 ]
             },
             {
                 "name": "Stairs",
                 "images": [
-                    "/images/Nuke/Nuke_Stairs.PNG",
-                    "/images/Nuke/Nuke_Stairs2.PNG"
+                    "/stebbycakes/images/Nuke/Nuke_Stairs.PNG",
+                    "/stebbycakes/images/Nuke/Nuke_Stairs2.PNG"
                 ]
             }
         ]
@@ -404,213 +408,213 @@
             {
                 "name": "XBox",
                 "images": [
-                    "/images/DustII/DustII_XBox.PNG",
-                    "/images/DustII/DustII_XBox2.PNG",
-                    "/images/DustII/DustII_XBox3.PNG",
-                    "/images/DustII/DustII_XBox4.PNG"
+                    "/stebbycakes/images/DustII/DustII_XBox.PNG",
+                    "/stebbycakes/images/DustII/DustII_XBox2.PNG",
+                    "/stebbycakes/images/DustII/DustII_XBox3.PNG",
+                    "/stebbycakes/images/DustII/DustII_XBox4.PNG"
                 ]
             },
             {
                 "name": "Upper Tunnels",
                 "images": [
-                    "/images/DustII/DustII_UpperTunnels.PNG",
-                    "/images/DustII/DustII_UpperTunnels2.PNG",
-                    "/images/DustII/DustII_UpperTunnels3.PNG"
+                    "/stebbycakes/images/DustII/DustII_UpperTunnels.PNG",
+                    "/stebbycakes/images/DustII/DustII_UpperTunnels2.PNG",
+                    "/stebbycakes/images/DustII/DustII_UpperTunnels3.PNG"
                 ]
             },
             {
                 "name": "Top Mid",
                 "images": [
-                    "/images/DustII/DustII_TopMid.PNG"
+                    "/stebbycakes/images/DustII/DustII_TopMid.PNG"
                 ]
             },
             {
                 "name": "Suicide",
                 "images": [
-                    "/images/DustII/DustII_Suicide.PNG",
-                    "/images/DustII/DustII_Suicide2.PNG"
+                    "/stebbycakes/images/DustII/DustII_Suicide.PNG",
+                    "/stebbycakes/images/DustII/DustII_Suicide2.PNG"
                 ]
             },
             {
                 "name": "Platform",
                 "images": [
-                    "/images/DustII/DustII_Platform.PNG",
-                    "/images/DustII/DustII_Platform2.PNG"
+                    "/stebbycakes/images/DustII/DustII_Platform.PNG",
+                    "/stebbycakes/images/DustII/DustII_Platform2.PNG"
                 ]
             },
             {
                 "name": "Pit",
                 "images": [
-                    "/images/DustII/DustII_Pit.PNG"
+                    "/stebbycakes/images/DustII/DustII_Pit.PNG"
                 ]
             },
             {
                 "name": "Palm",
                 "images": [
-                    "/images/DustII/DustII_Palm.PNG",
-                    "/images/DustII/DustII_Palm2.PNG"
+                    "/stebbycakes/images/DustII/DustII_Palm.PNG",
+                    "/stebbycakes/images/DustII/DustII_Palm2.PNG"
                 ]
             },
             {
                 "name": "Outside Long",
                 "images": [
-                    "/images/DustII/DustII_OutsideLong.PNG",
-                    "/images/DustII/DustII_OutsideLong2.PNG"
+                    "/stebbycakes/images/DustII/DustII_OutsideLong.PNG",
+                    "/stebbycakes/images/DustII/DustII_OutsideLong2.PNG"
                 ]
             },
             {
                 "name": "Lower Tunnels",
                 "images": [
-                    "/images/DustII/DustII_LowerTunnels.PNG",
-                    "/images/DustII/DustII_LowerTunnels2.PNG",
-                    "/images/DustII/DustII_LowerTunnels3.PNG"
+                    "/stebbycakes/images/DustII/DustII_LowerTunnels.PNG",
+                    "/stebbycakes/images/DustII/DustII_LowerTunnels2.PNG",
+                    "/stebbycakes/images/DustII/DustII_LowerTunnels3.PNG"
                 ]
             },
             {
                 "name": "Long Doors",
                 "images": [
-                    "/images/DustII/DustII_LongDoors.PNG"
+                    "/stebbycakes/images/DustII/DustII_LongDoors.PNG"
                 ]
             },
             {
                 "name": "Long",
                 "images": [
-                    "/images/DustII/DustII_Long.PNG"
+                    "/stebbycakes/images/DustII/DustII_Long.PNG"
                 ]
             },
             {
                 "name": "Double Doors",
                 "images": [
-                    "/images/DustII/DustII_DoubleDoors.PNG",
-                    "/images/DustII/DustII_DoubleDoors2.PNG"
+                    "/stebbycakes/images/DustII/DustII_DoubleDoors.PNG",
+                    "/stebbycakes/images/DustII/DustII_DoubleDoors2.PNG"
                 ]
             },
             {
                 "name": "Default",
                 "images": [
-                    "/images/DustII/DustII_Default.PNG"
+                    "/stebbycakes/images/DustII/DustII_Default.PNG"
                 ]
             },
             {
                 "name": "CT Spawn",
                 "images": [
-                    "/images/DustII/DustII_CTSpawn.PNG",
-                    "/images/DustII/DustII_CTSpawn2.PNG"
+                    "/stebbycakes/images/DustII/DustII_CTSpawn.PNG",
+                    "/stebbycakes/images/DustII/DustII_CTSpawn2.PNG"
                 ]
             },
             {
                 "name": "CT Mid",
                 "images": [
-                    "/images/DustII/DustII_CTMid.PNG",
-                    "/images/DustII/DustII_CTMid2.PNG",
-                    "/images/DustII/DustII_CTMid3.PNG",
-                    "/images/DustII/DustII_CTMid4.PNG"
+                    "/stebbycakes/images/DustII/DustII_CTMid.PNG",
+                    "/stebbycakes/images/DustII/DustII_CTMid2.PNG",
+                    "/stebbycakes/images/DustII/DustII_CTMid3.PNG",
+                    "/stebbycakes/images/DustII/DustII_CTMid4.PNG"
                 ]
             },
             {
                 "name": "Close",
                 "images": [
-                    "/images/DustII/DustII_Close.PNG"
+                    "/stebbycakes/images/DustII/DustII_Close.PNG"
                 ]
             },
             {
                 "name": "Catwalk",
                 "images": [
-                    "/images/DustII/DustII_Catwalk.PNG"
+                    "/stebbycakes/images/DustII/DustII_Catwalk.PNG"
                 ]
             },
             {
                 "name": "Cat",
                 "images": [
-                    "/images/DustII/DustII_Cat.PNG",
-                    "/images/DustII/DustII_Cat2.PNG",
-                    "/images/DustII/DustII_Cat3.PNG",
-                    "/images/DustII/DustII_Cat4.PNG"
+                    "/stebbycakes/images/DustII/DustII_Cat.PNG",
+                    "/stebbycakes/images/DustII/DustII_Cat2.PNG",
+                    "/stebbycakes/images/DustII/DustII_Cat3.PNG",
+                    "/stebbycakes/images/DustII/DustII_Cat4.PNG"
                 ]
             },
             {
                 "name": "Car",
                 "images": [
-                    "/images/DustII/DustII_Car.PNG"
+                    "/stebbycakes/images/DustII/DustII_Car.PNG"
                 ]
             },
             {
                 "name": "Boost",
                 "images": [
-                    "/images/DustII/DustII_Boost.PNG"
+                    "/stebbycakes/images/DustII/DustII_Boost.PNG"
                 ]
             },
             {
                 "name": "Big Box",
                 "images": [
-                    "/images/DustII/DustII_BigBox.PNG"
+                    "/stebbycakes/images/DustII/DustII_BigBox.PNG"
                 ]
             },
             {
                 "name": "B Doors",
                 "images": [
-                    "/images/DustII/DustII_BDoors.PNG",
-                    "/images/DustII/DustII_BDoors2.PNG"
+                    "/stebbycakes/images/DustII/DustII_BDoors.PNG",
+                    "/stebbycakes/images/DustII/DustII_BDoors2.PNG"
                 ]
             }
         ]
     }, {
         "map": "Inferno",
         "locations": [
-          { "name": "Truck", "images": ["/images/Inferno/Inferno_Truck.PNG"] },
-          { "name": "2nd Mid", "images": ["/images/Inferno/Inferno_2ndMid.PNG"] },
-          { "name": "A Long", "images": ["/images/Inferno/Inferno_ALong.PNG", "/images/Inferno/Inferno_ALong2.PNG", "/images/Inferno/Inferno_ALong3.PNG", "/images/Inferno/Inferno_ALong4.PNG"] },
-          { "name": "Aps", "images": ["/images/Inferno/Inferno_Aps.PNG"] },
-          { "name": "Arches", "images": ["/images/Inferno/Inferno_Arches.PNG", "/images/Inferno/Inferno_Arches2.PNG"] },
-          { "name": "A Site", "images": ["/images/Inferno/Inferno_ASite.PNG"] },
-          { "name": "Back Site", "images": ["/images/Inferno/Inferno_BackSite.PNG"] },
-          { "name": "Balcony", "images": ["/images/Inferno/Inferno_Balcony.PNG"] },
-          { "name": "Banana", "images": ["/images/Inferno/Inferno_Banana.PNG", "/images/Inferno/Inferno_Banana2.PNG", "/images/Inferno/Inferno_Banana3.PNG"] },
-          { "name": "Bottom Mid", "images": ["/images/Inferno/Inferno_BottomMid.PNG", "/images/Inferno/Inferno_BottomMid2.PNG"] },
-          { "name": "Car", "images": ["/images/Inferno/Inferno_Car.PNG"] },
-          { "name": "Cemetery", "images": ["/images/Inferno/Inferno_Cemetery.PNG"] },
-          { "name": "Coffins", "images": ["/images/Inferno/Inferno_Coffins.PNG"] },
-          { "name": "Default", "images": ["/images/Inferno/Inferno_Default.PNG"] },
-          { "name": "Garden", "images": ["/images/Inferno/Inferno_Garden.PNG"] },
-          { "name": "Graveyard", "images": ["/images/Inferno/Inferno_Graveyard.PNG"] },
-          { "name": "Library", "images": ["/images/Inferno/Inferno_Library.PNG", "/images/Inferno/Inferno_Library2.PNG"] },
-          { "name": "Orange", "images": ["/images/Inferno/Inferno_Orange.PNG"] },
-          { "name": "Patio", "images": ["/images/Inferno/Inferno_Patio.PNG", "/images/Inferno/Inferno_Patio2.PNG"] },
-          { "name": "Ramp", "images": ["/images/Inferno/Inferno_Ramp.PNG", "/images/Inferno/Inferno_Ramp2.PNG"] },
-          { "name": "Red Door", "images": ["/images/Inferno/Inferno_RedDoor.PNG"] },
-          { "name": "Stairs", "images": ["/images/Inferno/Inferno_Stairs.PNG"] },
-          { "name": "Top Mid", "images": ["/images/Inferno/Inferno_TopMid.PNG", "/images/Inferno/Inferno_TopMid2.PNG"] }
+          { "name": "Truck", "images": ["/stebbycakes/images/Inferno/Inferno_Truck.PNG"] },
+          { "name": "2nd Mid", "images": ["/stebbycakes/images/Inferno/Inferno_2ndMid.PNG"] },
+          { "name": "A Long", "images": ["/stebbycakes/images/Inferno/Inferno_ALong.PNG", "/stebbycakes/images/Inferno/Inferno_ALong2.PNG", "/stebbycakes/images/Inferno/Inferno_ALong3.PNG", "/stebbycakes/images/Inferno/Inferno_ALong4.PNG"] },
+          { "name": "Aps", "images": ["/stebbycakes/images/Inferno/Inferno_Aps.PNG"] },
+          { "name": "Arches", "images": ["/stebbycakes/images/Inferno/Inferno_Arches.PNG", "/stebbycakes/images/Inferno/Inferno_Arches2.PNG"] },
+          { "name": "A Site", "images": ["/stebbycakes/images/Inferno/Inferno_ASite.PNG"] },
+          { "name": "Back Site", "images": ["/stebbycakes/images/Inferno/Inferno_BackSite.PNG"] },
+          { "name": "Balcony", "images": ["/stebbycakes/images/Inferno/Inferno_Balcony.PNG"] },
+          { "name": "Banana", "images": ["/stebbycakes/images/Inferno/Inferno_Banana.PNG", "/stebbycakes/images/Inferno/Inferno_Banana2.PNG", "/stebbycakes/images/Inferno/Inferno_Banana3.PNG"] },
+          { "name": "Bottom Mid", "images": ["/stebbycakes/images/Inferno/Inferno_BottomMid.PNG", "/stebbycakes/images/Inferno/Inferno_BottomMid2.PNG"] },
+          { "name": "Car", "images": ["/stebbycakes/images/Inferno/Inferno_Car.PNG"] },
+          { "name": "Cemetery", "images": ["/stebbycakes/images/Inferno/Inferno_Cemetery.PNG"] },
+          { "name": "Coffins", "images": ["/stebbycakes/images/Inferno/Inferno_Coffins.PNG"] },
+          { "name": "Default", "images": ["/stebbycakes/images/Inferno/Inferno_Default.PNG"] },
+          { "name": "Garden", "images": ["/stebbycakes/images/Inferno/Inferno_Garden.PNG"] },
+          { "name": "Graveyard", "images": ["/stebbycakes/images/Inferno/Inferno_Graveyard.PNG"] },
+          { "name": "Library", "images": ["/stebbycakes/images/Inferno/Inferno_Library.PNG", "/stebbycakes/images/Inferno/Inferno_Library2.PNG"] },
+          { "name": "Orange", "images": ["/stebbycakes/images/Inferno/Inferno_Orange.PNG"] },
+          { "name": "Patio", "images": ["/stebbycakes/images/Inferno/Inferno_Patio.PNG", "/stebbycakes/images/Inferno/Inferno_Patio2.PNG"] },
+          { "name": "Ramp", "images": ["/stebbycakes/images/Inferno/Inferno_Ramp.PNG", "/stebbycakes/images/Inferno/Inferno_Ramp2.PNG"] },
+          { "name": "Red Door", "images": ["/stebbycakes/images/Inferno/Inferno_RedDoor.PNG"] },
+          { "name": "Stairs", "images": ["/stebbycakes/images/Inferno/Inferno_Stairs.PNG"] },
+          { "name": "Top Mid", "images": ["/stebbycakes/images/Inferno/Inferno_TopMid.PNG", "/stebbycakes/images/Inferno/Inferno_TopMid2.PNG"] }
         ]
       }, {
         "map": "Mirage",
         "locations": [
-          { "name": "Vent", "images": ["/images/Mirage/Mirage_Vent.PNG"] },
-          { "name": "Van", "images": ["/images/Mirage/Mirage_Van.PNG", "/images/Mirage/Mirage_Van2.PNG"] },
-          { "name": "Underpass", "images": ["/images/Mirage/Mirage_Underpass.PNG"] },
-          { "name": "T Spawn", "images": ["/images/Mirage/Mirage_TSpawn.PNG"] },
-          { "name": "Triple Box", "images": ["/images/Mirage/Mirage_TripleBox.PNG", "/images/Mirage/Mirage_TripleBox2.PNG"] },
-          { "name": "Top Mid", "images": ["/images/Mirage/Mirage_TopMid.PNG", "/images/Mirage/Mirage_TopMid2.PNG"] },
-          { "name": "Ticket Booth", "images": ["/images/Mirage/Mirage_TicketBooth.PNG", "/images/Mirage/Mirage_TicketBooth2.PNG", "/images/Mirage/Mirage_TicketBooth3.PNG"] },
-          { "name": "Tetris", "images": ["/images/Mirage/Mirage_Tetris.PNG"] },
-          { "name": "Stairs", "images": ["/images/Mirage/Mirage_Stairs.PNG", "/images/Mirage/Mirage_Stairs2.PNG"] },
-          { "name": "Snipers", "images": ["/images/Mirage/Mirage_Snipers.PNG", "/images/Mirage/Mirage_Snipers2.PNG", "/images/Mirage/Mirage_Snipers3.PNG"] },
-          { "name": "Short", "images": ["/images/Mirage/Mirage_Short.PNG"] },
-          { "name": "Shadow", "images": ["/images/Mirage/Mirage_Shadow.PNG", "/images/Mirage/Mirage_Shadow2.PNG"] },
-          { "name": "Ramp", "images": ["/images/Mirage/Mirage_Ramp.PNG", "/images/Mirage/Mirage_Ramp2.PNG"] },
-          { "name": "Palace", "images": ["/images/Mirage/Mirage_Palace.PNG"] },
-          { "name": "Market", "images": ["/images/Mirage/Mirage_Market.PNG", "/images/Mirage/Mirage_Market2.PNG"] },
-          { "name": "Kitchen", "images": ["/images/Mirage/Mirage_Kitchen.PNG"] },
-          { "name": "Jungle", "images": ["/images/Mirage/Mirage_Jungle.PNG"] },
-          { "name": "Forest", "images": ["/images/Mirage/Mirage_Forest.PNG", "/images/Mirage/Mirage_Forest2.PNG"] },
-          { "name": "FireBox", "images": ["/images/Mirage/Mirage_FireBox.PNG"] },
-          { "name": "Door", "images": ["/images/Mirage/Mirage_Door.PNG"] },
-          { "name": "Default", "images": ["/images/Mirage/Mirage_Default.PNG", "/images/Mirage/Mirage_Default2.PNG"] },
-          { "name": "Connector", "images": ["/images/Mirage/Mirage_Connector.PNG"] },
-          { "name": "Catwalk", "images": ["/images/Mirage/Mirage_Catwalk.PNG"] },
-          { "name": "BSite", "images": ["/images/Mirage/Mirage_BSite.PNG"] },
-          { "name": "Bench", "images": ["/images/Mirage/Mirage_Bench.PNG", "/images/Mirage/Mirage_Bench2.PNG"] },
-          { "name": "Arches", "images": ["/images/Mirage/Mirage_Arches.PNG"] },
-          { "name": "Aps", "images": ["/images/Mirage/Mirage_Aps.PNG", "/images/Mirage/Mirage_Aps2.PNG"] }
+          { "name": "Vent", "images": ["/stebbycakes/images/Mirage/Mirage_Vent.PNG"] },
+          { "name": "Van", "images": ["/stebbycakes/images/Mirage/Mirage_Van.PNG", "/stebbycakes/images/Mirage/Mirage_Van2.PNG"] },
+          { "name": "Underpass", "images": ["/stebbycakes/images/Mirage/Mirage_Underpass.PNG"] },
+          { "name": "T Spawn", "images": ["/stebbycakes/images/Mirage/Mirage_TSpawn.PNG"] },
+          { "name": "Triple Box", "images": ["/stebbycakes/images/Mirage/Mirage_TripleBox.PNG", "/stebbycakes/images/Mirage/Mirage_TripleBox2.PNG"] },
+          { "name": "Top Mid", "images": ["/stebbycakes/images/Mirage/Mirage_TopMid.PNG", "/stebbycakes/images/Mirage/Mirage_TopMid2.PNG"] },
+          { "name": "Ticket Booth", "images": ["/stebbycakes/images/Mirage/Mirage_TicketBooth.PNG", "/stebbycakes/images/Mirage/Mirage_TicketBooth2.PNG", "/stebbycakes/images/Mirage/Mirage_TicketBooth3.PNG"] },
+          { "name": "Tetris", "images": ["/stebbycakes/images/Mirage/Mirage_Tetris.PNG"] },
+          { "name": "Stairs", "images": ["/stebbycakes/images/Mirage/Mirage_Stairs.PNG", "/stebbycakes/images/Mirage/Mirage_Stairs2.PNG"] },
+          { "name": "Snipers", "images": ["/stebbycakes/images/Mirage/Mirage_Snipers.PNG", "/stebbycakes/images/Mirage/Mirage_Snipers2.PNG", "/stebbycakes/images/Mirage/Mirage_Snipers3.PNG"] },
+          { "name": "Short", "images": ["/stebbycakes/images/Mirage/Mirage_Short.PNG"] },
+          { "name": "Shadow", "images": ["/stebbycakes/images/Mirage/Mirage_Shadow.PNG", "/stebbycakes/images/Mirage/Mirage_Shadow2.PNG"] },
+          { "name": "Ramp", "images": ["/stebbycakes/images/Mirage/Mirage_Ramp.PNG", "/stebbycakes/images/Mirage/Mirage_Ramp2.PNG"] },
+          { "name": "Palace", "images": ["/stebbycakes/images/Mirage/Mirage_Palace.PNG"] },
+          { "name": "Market", "images": ["/stebbycakes/images/Mirage/Mirage_Market.PNG", "/stebbycakes/images/Mirage/Mirage_Market2.PNG"] },
+          { "name": "Kitchen", "images": ["/stebbycakes/images/Mirage/Mirage_Kitchen.PNG"] },
+          { "name": "Jungle", "images": ["/stebbycakes/images/Mirage/Mirage_Jungle.PNG"] },
+          { "name": "Forest", "images": ["/stebbycakes/images/Mirage/Mirage_Forest.PNG", "/stebbycakes/images/Mirage/Mirage_Forest2.PNG"] },
+          { "name": "FireBox", "images": ["/stebbycakes/images/Mirage/Mirage_FireBox.PNG"] },
+          { "name": "Door", "images": ["/stebbycakes/images/Mirage/Mirage_Door.PNG"] },
+          { "name": "Default", "images": ["/stebbycakes/images/Mirage/Mirage_Default.PNG", "/stebbycakes/images/Mirage/Mirage_Default2.PNG"] },
+          { "name": "Connector", "images": ["/stebbycakes/images/Mirage/Mirage_Connector.PNG"] },
+          { "name": "Catwalk", "images": ["/stebbycakes/images/Mirage/Mirage_Catwalk.PNG"] },
+          { "name": "BSite", "images": ["/stebbycakes/images/Mirage/Mirage_BSite.PNG"] },
+          { "name": "Bench", "images": ["/stebbycakes/images/Mirage/Mirage_Bench.PNG", "/stebbycakes/images/Mirage/Mirage_Bench2.PNG"] },
+          { "name": "Arches", "images": ["/stebbycakes/images/Mirage/Mirage_Arches.PNG"] },
+          { "name": "Aps", "images": ["/stebbycakes/images/Mirage/Mirage_Aps.PNG", "/stebbycakes/images/Mirage/Mirage_Aps2.PNG"] }
         ]
       }
       

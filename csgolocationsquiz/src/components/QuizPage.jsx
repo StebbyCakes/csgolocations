@@ -86,7 +86,7 @@ function QuizPage() {
         navigate(0);
     };
 
-    if (!questions.length) return <p>Loading quiz data...</p>;
+    if (!questions.length) return <p>NO QUIZ DATA</p>;
 
     if (quizFinished) {
         const score = Math.round((correctAnswers / questions.length) * 100);
